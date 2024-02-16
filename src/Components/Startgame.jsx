@@ -7,7 +7,7 @@ const Startgame=({toggle}) => {
         <img src="/images/dicess.png" alt="main pic" />
         </div>
         <div className='Content'>
-            <h1>No Dice game</h1>
+            <h1>Dice game</h1>
              <Button onClick={toggle}>Play Now</Button>
         </div>
      </Container>
